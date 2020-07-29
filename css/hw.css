@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+#title {
+    color: crimson;
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+h2 {
+    background-color: #ffe4e1;
+}
+
+.index {
+    color: darkorange;
+    text-align: center;
+}
+
+#chapter-1 {
+    color: darkmagenta;
+}
+
+.center-a {
+    text-align: center;
+}
+
+#chapter-2 {
+    color: darkmagenta;
+}
+
+.center-b {
+    text-align: center;
+}
+
+.amname {
+    background-color: #e0ffff;
+    color: #dc143c;
+}
+
+#chapter-3 {
+    color: darkmagenta;
+}
+
+.center-c {
+    text-align: center;
+}
+
+#chapter-omake {
+    color: darkmagenta;
+}
+
+.center-d {
+    text-align: center;
+}
+
+
+a:link {
+    color: #008080;
+}
+
+a:visited {
+    color: #6495ed;
+}
+
+a:hover {
+    font-size: 2em;
+}
+
+dt:hover {
+    font-size: 3em;
+}
+
+button {
+    border: 1px solid #0086f9;
+    border-radius: 4px;
+    background: linear-gradient(0deg, #0086f9, #b6d6f7);
+    color: #FFF;
+    margin: 2em;
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+}
+
